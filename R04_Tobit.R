@@ -12,6 +12,7 @@ library(MASS)
 library(car)
 library(dplyr) 
 library(gridExtra) 
+library(GGally)
 
 #####################################################################################################
 # Introducción
